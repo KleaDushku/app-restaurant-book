@@ -28,6 +28,7 @@ export const products = pgTable('products', {
   availableAt: timestamp('available_at').notNull()
 });
 
+
 export type SelectProduct = typeof products.$inferSelect;
 export const insertProductSchema = createInsertSchema(products);
 

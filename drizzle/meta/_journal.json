@@ -15,6 +15,27 @@
       "when": 1743951814118,
       "tag": "0001_perpetual_rhodey",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1743952126306,
+      "tag": "0002_bumpy_sharon_ventura",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1743952226156,
+      "tag": "0003_classy_kat_farrell",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "7",
+      "when": 1743952289568,
+      "tag": "0004_absent_jubilee",
+      "breakpoints": true
     }
   ]
 }
